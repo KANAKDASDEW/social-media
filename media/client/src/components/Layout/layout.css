@@ -1,0 +1,10 @@
+.profile Link{
+    font-weight: bold !important;
+}
+ .nav-item a:hover{
+    color: brown !important;
+}
+.nav-item a{
+    color: rgb(27, 159, 82) !important;
+    
+}
